@@ -8,7 +8,9 @@
 #include "pinMap.h"
 
 
-#define PIN_LED             GPIO_NUM_39
+#define PIN_LED             GPIO_NUM_1
+#define PIN_LED             GPIO_NUM_2
+
 
 #define PIN_PULSE_DRY_1     GPIO_NUM_13
 #define PIN_PULSE_DRY_2     GPIO_NUM_14
