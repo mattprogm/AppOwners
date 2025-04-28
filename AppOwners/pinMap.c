@@ -10,6 +10,9 @@
 
 #define PIN_LED             GPIO_NUM_1
 #define PIN_LED             GPIO_NUM_2
+#define PIN_LED             GPIO_NUM_3
+#define PIN_LED             GPIO_NUM_4
+
 
 
 #define PIN_PULSE_DRY_1     GPIO_NUM_13
