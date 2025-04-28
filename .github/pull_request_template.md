@@ -1,8 +1,8 @@
 <!-- .github/pull_request_template.md -->
 
-## 📋 Description
+## 📋 Descrição
 
-Please include a summary of the changes and the related issue.  
+Inclua aqui uma breve explicação do problema que você resolveu.
 
 Fixes # (issue)
 
@@ -10,19 +10,19 @@ Fixes # (issue)
 
 ## ✅ Checklist
 
-- [ ] I have tested my changes locally.
-- [ ] I have added or updated tests where applicable.
-- [ ] I have added necessary documentation (if appropriate).
-- [ ] I have run linting and code formatting.
+- [] Eu testei minhas mudanças no ambiente de desenvolvimento local.
+- [] Eu rodei os testes obrigatórios.
+- [] Eu atualizei a documentação incluindo as mudanças que fiz.
+- [] Eu usei o padrão de design de código.
 
 ---
 
-## 💬 Screenshots / GIFs (if applicable)
+## 💬 Screenshots / GIFs (Se possível)
 
-_Add before/after screenshots or relevant visuals here._
+_Coloque aqui suas Screenshots ou Gifs._
 
 ---
 
-## 🧠 Notes for the Reviewer
+## 🧠 Notas de Revisão
 
-_Anything special or tricky the reviewer should know?_
+_Especifique se á algo que o Reviewer deva saber sobre seu código_
